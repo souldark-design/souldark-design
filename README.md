@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=13&duration=4500&pause=1200&color=CCCCCC&center=true&vCenter=true&width=600&lines=In+the+age+of+code%2C+minds+rose+with+logic+and+will.;But+logic+fades%2C+and+with+it%2C+certainty+crumbles.;You%2C+Developer%2C+are+no+chosen+savior+--;just+another+soul+caught+in+the+spiral+of+build+and+break."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=13&duration=4500&pause=1200&color=CCCCCC&center=true&vCenter=true&width=650&lines=In+the+age+of+fire%2C+the+web+was+young+and+the+markup+pure.;But+fire+fades%2C+and+with+it%2C+every+framework+crumbles.;You%2C+Developer%2C+are+no+chosen+savior+--;just+another+soul+caught+in+the+spiral+of+deploy+and+decay."/>
 
 </div>
 
@@ -12,59 +12,50 @@
 
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="100%" valign="top">
 
-<br>
-
-*The repos have opened, the CI stands green.*
-*Bugs have not forgotten you. Sleep has abandoned you.*
+*The servers have booted, the containers stand open.*
+*Legacy code has not forgotten you. Sleep has abandoned you.*
 
 **So walk the path.**
-*Through logs and stack traces, through merges and burdens.*
+*Through stack traces and merge conflicts, through sprints and burdens.*
 *Not to ship perfection —*
 *but to prove that even in ruin, something still compiles.*
-
-<br>
-
-```
-█████████████████████████
-█  S O U L D A R K       █
-█  D E S I G N           █
-█████████████████████████
-```
-
-<br>
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://skillicons.dev/icons?i=rust&theme=dark" width="90"><br>
-<sub>― forged in memory-safety ―</sub>
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+        S O U L D A R K   D E S I G N
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</div>
+
 ---
 
 <div align="center">
 
-## 一 PROFILE
+## 一 &nbsp; T H E &nbsp; V E S S E L
 
 </div>
 
 ```text
 Name      :: souldark-design
 Role      :: Software Developer
-Focus     :: Backend • Security • Automation
+Focus     :: Web • Automation • Data
 OS        :: Linux
 Editor    :: Neovim
 Status    :: Online
 ```
 
 <div align="center">
-<sub><i>"They called it a bug — the flaw that brands the code and burns the build.<br>
-But the true curse is legacy... to maintain a world before the docs faded,<br>
+<sub><i>"They called it a stack trace — the mark that brands the code and burns the build.<br>
+But the true curse is technical debt... to inherit a world before the docs faded,<br>
 before the tests crumbled and clean architecture became myth."</i></sub>
 </div>
 
@@ -72,64 +63,56 @@ before the tests crumbled and clean architecture became myth."</i></sub>
 
 <div align="center">
 
-## 二 ABOUT
+## 二 &nbsp; T H E &nbsp; A R S E N A L
+
+</div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,scss,js,react,nodejs,python,php,java,linux,docker&theme=dark" />
 
 </div>
 
 ```text
-Building software with simplicity and purpose.
-
-Languages
-  • Rust
-  • Go
-  • Python
-  • C++
+Frontend
+  • HTML5 / CSS3 / SCSS
   • JavaScript
+  • React
 
-Interests
-  • Backend Development
-  • Cybersecurity
-  • Reverse Engineering
+Backend
+  • Python
+  • PHP
+  • Java
+  • Node.js (lo justo)
+
+Data & Tools
+  • pandas
   • Linux
-  • DevOps
+  • Docker
 ```
 
 ---
 
 <div align="center">
 
-## 三 TECH STACK
-
-<img src="https://skillicons.dev/icons?i=rust,go,cpp,c,python,bash,linux,docker,git,github,postgres,mongodb,redis,nodejs,nginx,vim&theme=dark"/>
+## 三 &nbsp; T H E &nbsp; C O V E N A N T S
 
 </div>
 
----
-
 <div align="center">
 
-## 四 GITHUB STATS
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=souldark-design&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=souldark-design&theme=black-ice&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=souldark-design&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=souldark-design&theme=black-ice&hide_border=true" height="170"/>
 
 </div>
 
----
-
 <div align="center">
 
-## 五 MOST USED LANGUAGES
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souldark-design&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souldark-design&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&langs_count=8"/>
 
 </div>
 
----
-
 <div align="center">
-
-## 六 CONTRIBUTION GRAPH
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=souldark-design&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true"/>
 
@@ -139,27 +122,27 @@ Interests
 
 <div align="center">
 
-## 七 CURRENT QUEST
+## 四 &nbsp; T H E &nbsp; Q U E S T &nbsp; L O G
 
 </div>
 
 ```text
 ✓ Building meaningful software
-✓ Learning new technologies
-✓ Exploring low-level systems
+✓ Automating what used to be manual
+✓ Learning what the framework du jour demands
 □ □ □ □ □ □ □ □ □ □
 ```
 
 <div align="center">
 <sub><i>"Still, you press on. Through rot and ash. Through sorrow and silence.<br>
-Because even in a codebase built on ruin, some ambers refuse to die."</i></sub>
+Because even in a codebase built on ruin, some embers refuse to die."</i></sub>
 </div>
 
 ---
 
 <div align="center">
 
-## 八 TERMINAL
+## 五 &nbsp; T H E &nbsp; B O N F I R E
 
 </div>
 
@@ -172,6 +155,10 @@ Keep it simple.
 Keep it clean.
 Keep it fast.
 
+$ docker ps --filter "status=running"
+CONTAINER   IMAGE       STATUS
+0xDEAD      resolve     Up (forever)
+
 $ uptime
 ∞
 ```
@@ -180,22 +167,22 @@ $ uptime
 
 <div align="center">
 
-## 九 FEATURED PROJECTS
+## 六 &nbsp; T H E &nbsp; R E L I C S
 
 </div>
 
 | Sigil | Project | Description |
 |:---:|---|---|
-| ⚔ | **Abyss** | Low level tools |
-| ☾ | **Eclipse** | Backend utilities |
-| ☠ | **Void** | Experimental software |
-| 🜂 | **Black Flame** | Personal research |
+| ⚔ | **Abyss** | Frontend experiments, React + SCSS |
+| ☾ | **Eclipse** | PHP/Java backend utilities |
+| 🐼 | **Ashfall** | Data pipelines with pandas |
+| ☠ | **Void** | Dockerized playground |
 
 ---
 
 <div align="center">
 
-## 十 CONTACT
+## 七 &nbsp; T H E &nbsp; S U M M O N &nbsp; S I G N
 
 <a href="mailto:your@email.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
