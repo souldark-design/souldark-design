@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/souldark-design/souldark-design/main/assets/banner.png" width="100%">
+<img src="assets/img/pilgrim.jpg" width="100%">
 
 <br>
 
@@ -10,9 +10,13 @@
 
 <br>
 
+---
+
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td width="55%" valign="top">
+
+<br>
 
 *The servers have booted, the containers stand open.*
 *Legacy code has not forgotten you. Sleep has abandoned you.*
@@ -22,19 +26,23 @@
 *Not to ship perfection —*
 *but to prove that even in ruin, something still compiles.*
 
+<br>
+
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+   S O U L D A R K  D E S I G N
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+</td>
+<td width="45%" align="center">
+
+<img src="assets/img/ascension.jpg" width="100%">
+<sub><i>ascension — the first commit that ever shipped</i></sub>
+
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-        S O U L D A R K   D E S I G N
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
-
-</div>
 
 ---
 
@@ -61,16 +69,22 @@ before the tests crumbled and clean architecture became myth."</i></sub>
 
 ---
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="45%" align="center">
+
+<img src="assets/img/vigil.jpg" width="100%">
+<sub><i>the vigil — kneeling before what was built, before what remains</i></sub>
+
+</td>
+<td width="55%" valign="top">
+
+<br>
 
 ## 二 &nbsp; T H E &nbsp; A R S E N A L
 
-</div>
-
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,nodejs,python,php,java,linux,docker&theme=dark" />
-
 </div>
 
 ```text
@@ -91,28 +105,20 @@ Data & Tools
   • Docker
 ```
 
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
 
 ## 三 &nbsp; T H E &nbsp; C O V E N A N T S
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=souldark-design&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff" height="170"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=souldark-design&theme=black-ice&hide_border=true" height="170"/>
 
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souldark-design&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&langs_count=8"/>
-
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=souldark-design&bg_color=000000&color=FFFFFF&line=888888&point=FFFFFF&area=true&hide_border=true"/>
 
@@ -144,6 +150,21 @@ Because even in a codebase built on ruin, some embers refuse to die."</i></sub>
 
 ## 五 &nbsp; T H E &nbsp; B O N F I R E
 
+```
+                    _,-'|
+                 ,-'.   |
+              ,-'.   .  |
+           ,-'.   .    /
+        ,-'.  .     .  \
+      ,'.  .     .   .  \
+     /                   \
+    /   r e s t   h e r e \
+    |    to  kindle  and   |
+    |     continue  on     |
+     \_____________________/
+              🔥
+```
+
 </div>
 
 ```bash
@@ -167,7 +188,19 @@ $ uptime
 
 <div align="center">
 
-## 六 &nbsp; T H E &nbsp; R E L I C S
+## 六 &nbsp; T H E &nbsp; O A T H
+
+<img src="assets/img/oath.jpg" width="55%">
+
+<sub><i>"held not for war, but as a promise: that whatever is broken will be rebuilt."</i></sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 七 &nbsp; T H E &nbsp; R E L I C S
 
 </div>
 
@@ -182,7 +215,7 @@ $ uptime
 
 <div align="center">
 
-## 七 &nbsp; T H E &nbsp; S U M M O N &nbsp; S I G N
+## 八 &nbsp; T H E &nbsp; S U M M O N &nbsp; S I G N
 
 <a href="mailto:your@email.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
